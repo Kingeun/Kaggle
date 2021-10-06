@@ -9,3 +9,6 @@ https://kaggle-kr.tistory.com/32
 ### Binary classification : Tabular data
 #### 1. Titanic: Machine Learning from Disaster
 타이타닉에 탑승한 사람들의 신상정보를 활용하여, 승선한 사람들의 생존여부를 예측하는 모델을 생성
+
+#### 2. Porto Segure's Safe Driver Prediction
+Porto Seguro는 브라질의 자동차 보험 회사입니다. 본 경진 대회의 목적은 어떤 차주가 내년에 보험 청구를 할 확률을 예측하는 겁니다.
